@@ -36,9 +36,9 @@ a 28.7% cancellation rate.
 
 ## 🖼️ Dashboard Previews
 
-![Overview](Images/Overview.png.PNG)
+![Overview](Hotel-Booking-Demand-Dashboard/Images/Overview.png.PNG)
 
-![Cancellations](Images/Cancellations.png.PNG)
+![Cancellations](Hotel-Booking-Demand-Dashboard/Images/Cancellations.png.PNG)
 ## 📁 Files
 ```
 Hotel-Booking-Demand-Dashboard/
